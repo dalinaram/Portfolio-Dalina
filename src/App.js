@@ -8,8 +8,11 @@ import Contact from "./scenes/Contact";
 import Footer from "./scenes/Footer";
 import useMediaQuery from "./hooks/useMediaQuery";
 import { useEffect, useState } from "react";
-import Testimonials from "./scenes/Testimonials";
+import Hardskills from "./scenes/HardSkills";
 import { motion } from "framer-motion";
+import CVViewer from './components/CVViewer';
+
+
 
 function App() {
   const [selectedPage, setSelectedPage] = useState("home");
@@ -75,9 +78,9 @@ function App() {
         <motion.div
           margin="0 0 -200px 0"
           amount="all"
-          onViewportEnter={() => setSelectedPage("testimonials")}
+          onViewportEnter={() => setSelectedPage("harskills")}
         >
-          <Testimonials />
+          <Hardskills />
         </motion.div>
       </div>
       <LineGradient />

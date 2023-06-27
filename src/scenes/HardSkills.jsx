@@ -1,9 +1,9 @@
 import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 
-const Testimonials = () => {
+const Hardskills = () => {
   return (
-    <section id="testimonials" className="pt-32 pb-16">
+    <section id="=hardskills" className="pt-32 pb-16">
       {/* HEADING */}
       <motion.div
         className="md:w-1/3 text-center md:text-left"
@@ -17,15 +17,15 @@ const Testimonials = () => {
         }}
       >
         <p className="font-playfair font-semibold text-4xl mb-5 text-red">
-          TESTIMONIALS
+          HARDSKILLS
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-        Voici ce que les gens disent de mon travail.
+        Mes langages de prédilection.
         </p>
       </motion.div>
 
-      {/* TESTIMONIALS */}
+      {/* HARD SKILLS */}
       <div className="md:flex md:justify-between gap-8">
         <motion.div
           className="mx-auto relative bg-blue max-w-[400px] h-[350px] flex flex-col justify-end p-16 mt-48
@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+            Captivée par ce langage de part sa richesse et sa complexité, ainsi que l'utilisation de React. D'où ma curiosité et ma motivation à savoir le maîtriser pleinement.
           </p>
         </motion.div>
 
@@ -59,8 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+            Véritable engouement pour ce langage car j'aime créer, admirer les structures prendre forme et suis sensible au design d'une page. 
           </p>
         </motion.div>
 
@@ -78,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+            Concevoir une structure performante me semble être primordiale, ainsi que de rendre la navigation des utilisateurs la plus agréable et accessible possible.
           </p>
         </motion.div>
       </div>
@@ -86,4 +85,4 @@ const Testimonials = () => {
   );
 };
 
-export default Testimonials;
+export default Hardskills;

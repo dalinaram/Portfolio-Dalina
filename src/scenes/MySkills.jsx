@@ -70,7 +70,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-           Pourvue d'un fort côté créatif et sensible au côté esthétique, le métier de développeuse me permet de développer des solutions originales et stimulantes.
+           Pourvue d'un fort côté créatif et attirée par le côté esthétique depuis toujours, le métier de développeuse web me permet de développer des solutions originales et stimulantes.
           </p>
         </motion.div>
 
@@ -96,7 +96,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Soucieuse de répondre avec satisfaction à la clientèle, je possède un excellent sens du relationnel et sait être à l'écoute des besoins, afin d'y répondre avec précision. 
+            Soucieuse de répondre avec satisfaction à la clientèle, je possède un excellent sens du relationnel et sais être à l'écoute des besoins, afin d'y répondre avec précision. 
           </p>
         </motion.div>
         {/* LA TENACITE */}
@@ -121,7 +121,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Ma motivation et ma détermination dans tout ce que j'entreprend sont ma force pour ne pas me laisser être découragée ou abandonner et faire preuve de patience afin de trouver des solutions aux difficultés recontrées.
+            Ma motivation et ma détermination dans tout ce que j'entreprend, sont ma force pour ne pas abandonner et faire preuve de patience afin de trouver des solutions face aux difficultés recontrées.
           </p>
         </motion.div>
       </div>

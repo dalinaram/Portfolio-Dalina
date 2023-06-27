@@ -61,7 +61,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Développeuse web passionnée et désireuse d'approffondir mes connaissances, à la recherche d'un stage d'une durée de 6 mois.
+            Développeuse web passionnée, motivée, rigoureuse et désireuse d'en apprendre toujours davantage, souhaite approffondir mes connaissances et mettre à profit mes acquis, recherche un stage d'une durée de 6 mois.
           </p>
         </motion.div>
 
