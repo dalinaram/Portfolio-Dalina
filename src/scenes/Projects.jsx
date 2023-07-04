@@ -78,17 +78,17 @@ const Projects = () => {
           >
             APERCU DES PROJETS VISUALISABLES SUR MA PAGE GIT HUB.
           </div>
-          <Project title="hexashop" />
-          <Project title="design" />
+          <Project title="Hexashop" />
+          <Project title="Design" />
 
           {/* ROW 2 */}
-          <Project title="saveurs du Monde" />
-          <Project title="projet 4 en cours" />
-          <Project title="projet 5 en cours" />
+          <Project title="Saveurs du Monde" />
+          <Project title="Projet 4 en cours" />
+          <Project title="Projet 5 en cours" />
 
           {/* ROW 3 */}
-          <Project title="projet 6 en cours" />
-          <Project title="projet 7 en cours" />
+          <Project title="Projet 6 en cours" />
+          <Project title="Projet 7 en cours" />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
