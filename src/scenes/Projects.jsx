@@ -29,7 +29,7 @@ const Project = ({ title }) => {
           porttitor accumsan tincidunt. */}
         </p>
       </div>
-      <img src={`./assets/${projectTitle}.jpeg`} alt={projectTitle} />
+      <img src={`assets/${projectTitle}.jpeg`} alt={projectTitle} />
     </motion.div>
   );
 };
@@ -78,17 +78,17 @@ const Projects = () => {
           >
             APERCU DES PROJETS VISUALISABLES SUR MA PAGE GIT HUB.
           </div>
-          <Project title="Hexashop" />
-          <Project title="Design" />
+          <Project title="hexashop" />
+          <Project title="design" />
 
           {/* ROW 2 */}
-          <Project title="Saveurs du Monde" />
-          <Project title="Projet 4 en cours" />
-          <Project title="Projet 5 en cours" />
+          <Project title="saveurs du monde" />
+          <Project title="projet 4" />
+          <Project title="projet 5" />
 
           {/* ROW 3 */}
-          <Project title="Projet 6 en cours" />
-          <Project title="Projet 7 en cours" />
+          <Project title="projet 6" />
+          <Project title="projet 7" />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
