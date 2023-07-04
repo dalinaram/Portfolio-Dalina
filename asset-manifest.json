@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-dalina/static/css/main.54673d24.css",
-    "main.js": "/portfolio-dalina/static/js/main.6242bc42.js",
+    "main.js": "/portfolio-dalina/static/js/main.44b2687d.js",
     "static/media/brush.png": "/portfolio-dalina/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/person-1.png": "/portfolio-dalina/static/media/person-1.8f45fa33216b7fef881c.png",
     "static/media/person-3.png": "/portfolio-dalina/static/media/person-3.4f571a137eededb8d096.png",
     "static/media/person-2.png": "/portfolio-dalina/static/media/person-2.f504d9cbc0edaae23155.png",
     "index.html": "/portfolio-dalina/index.html",
     "main.54673d24.css.map": "/portfolio-dalina/static/css/main.54673d24.css.map",
-    "main.6242bc42.js.map": "/portfolio-dalina/static/js/main.6242bc42.js.map"
+    "main.44b2687d.js.map": "/portfolio-dalina/static/js/main.44b2687d.js.map"
   },
   "entrypoints": [
     "static/css/main.54673d24.css",
-    "static/js/main.6242bc42.js"
+    "static/js/main.44b2687d.js"
   ]
 }
