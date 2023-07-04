@@ -17,7 +17,7 @@ const SocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="github-link" src="/assets/github.png" />
+        <img alt="github-link" src="assets/github.png" />
       </a>  
       {/* <img alt="facebook-link" src="../assets/facebook.png" /> */}
         
